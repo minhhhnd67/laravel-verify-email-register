@@ -1,2 +1,2 @@
-# laravel verify email after register
-verify email after register
+# laravel verify email register
+verify email register
